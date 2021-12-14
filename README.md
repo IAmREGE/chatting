@@ -1,4 +1,4 @@
 # chatting
 在这里聊天。  
 B站号:注册表编辑器REGE
-<iframe src="https://github.com/IAmREGE/chatting/discussions">您需要手动进入聊天区:<a href="https://github.com/IAmREGE/chatting/discussions">点击此处进入</a></iframe>
+<a href="https://github.com/IAmREGE/chatting/discussions">直通聊天区</a> 或 <a href="https://iamrege.github0io/chatting/embed>进入嵌套版"</a>
